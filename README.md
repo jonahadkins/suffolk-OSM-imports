@@ -13,7 +13,7 @@ City of Suffolk, Virginia GIS department has provided building footprints and ad
 * 952 Buildings with Names - 2% :(
 * 268 Buildings with `Amenity=` tags - 0.6% :(( 
 
-Imports were done through the dedicated user account [jonahadkins_suffolk_import](https://www.openstreetmap.org/user/jonahadkins_suffolk_import/history#map=10/36.7367/-76.6640) 
+Imports were done through the dedicated user account [jonahadkins_suffolk_import](https://www.openstreetmap.org/user/jonahadkins_suffolk_import/history#map=10/36.7367/-76.6640) and were done through OSM Import Guidelines - [See Wiki](https://wiki.openstreetmap.org/wiki/City_of_Suffolk_Buildings_Import)
 
 ![](https://raw.githubusercontent.com/jonahadkins/suffolk-OSM-imports/master/post.png)
   
