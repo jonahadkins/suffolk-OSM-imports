@@ -11,7 +11,11 @@ City of Suffolk, Virginia GIS department has provided building footprints and ad
 42,103 Total Buildings  
 * 24,912 Buildings with Addresses - 59% !!
 * 952 Buildings with Names - 2% :(
-* 268 Buildings with `Amenity=` tags - 0.6% :((  
+* 268 Buildings with `Amenity=` tags - 0.6% :(( 
+
+Imports were done through the dedicated user account [jonahadkins_suffolk_import](https://www.openstreetmap.org/user/jonahadkins_suffolk_import/history#map=10/36.7367/-76.6640) 
+
+![](https://raw.githubusercontent.com/jonahadkins/suffolk-OSM-imports/master/post.png)
   
 Imported buildings have the following `building=` tags populated:  
 
